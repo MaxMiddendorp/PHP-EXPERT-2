@@ -1,0 +1,25 @@
+Een klant kan ​
+
+Al haar reparaties in een overzicht zien​                       DONE
+Kan alle reparaties aan een specifieke fiets bekijken           DONE
+
+=================================================================================
+Een medewerker kan ​
+
+Alle reparaties bekijken, wijzigen of verwijderen​
+    toevoegen       DONE
+    bekijken        DONE
+    wijzigen        DONE
+    verwijderen​     DONE 
+
+Alle fietsen bekijken, wijzigen of verwijderen​
+    toevoegen       DONE
+    bekijken        DONE
+    wijzigen        DONE MAAR RONDJES NOG MAKEN
+    verwijderen​     DONE
+
+Alle klanten bekijken, wijzigen of verwijderen​
+    toevoegen       DONE
+    bekijken        DONE
+    wijzigen        DONE
+    verwijderen​     DONE   
